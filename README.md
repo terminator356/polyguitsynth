@@ -1,0 +1,2 @@
+# polyguitsynth
+Polyphonic guitar synthesizer
